@@ -1,6 +1,7 @@
 # java-
 记录学习情况
-#基本结构
+# day 1 基本结构
+
 
 public class hello {
 
